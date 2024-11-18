@@ -1,0 +1,5 @@
+1- instalacion: el programa se ejecuta instalando y copiando los archivos en el sistema.
+
+2- copiar los acsesos directos al sistema-
+
+3- iniciar los servicios en el sistema.
